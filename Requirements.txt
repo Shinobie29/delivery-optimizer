@@ -1,5 +1,0 @@
-streamlit
-openrouteservice
-python-dotenv
-pandas
-ortools
